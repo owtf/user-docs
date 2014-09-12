@@ -1,5 +1,5 @@
-Targets
-=======
+Managing Targets
+================
 
 The targets page also known as target manager presents a ton of information. It has three important
 features
@@ -19,7 +19,7 @@ Just add the urls seperated by a new line & press the button to add targets
 
     Multiple targets can be added at once
 
-Manage Targets
+Remove Targets
 --------------
 
 To present the information in an orderly fashion, all targets are shown in the form of a table.

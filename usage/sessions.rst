@@ -1,5 +1,5 @@
-Sessions
-========
+Using Sessions
+==============
 
 Inorder to keep things simple and seperate, OWTF provides support for sessions.
 A session is your classification of targets. You can have same target in multiple sessions.

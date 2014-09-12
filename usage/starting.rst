@@ -1,8 +1,8 @@
-Starting
-========
+Starting OWTF
+=============
 
 .. warning::
-    Before starting OWTF, make sure you have the database server running
+    Before starting OWTF, make sure you have the postgres database server running
 
 OWTF is controlled and used from a web interface, so you have to launch OWTF from
 command line and then move on to your favourite browser. OWTF can be launched by

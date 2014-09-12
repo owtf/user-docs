@@ -6,7 +6,7 @@
 Welcome to Offensive Web Testing Framework's documentation!
 ===========================================================
 
-.. image:: https://www.owasp.org/images/7/73/OWTFLogo.png
+.. image:: /images/OWTFLogo.png
     :align: center
 
 Contents:
@@ -18,12 +18,4 @@ Contents:
    install.rst
    config.rst
    usage.rst
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   help.rst

@@ -1,5 +1,5 @@
-Plugins
-=======
+Understanding Plugins
+=====================
 
 Types of Plugins
 ----------------
@@ -13,13 +13,15 @@ are categorized into multiple groups and types
         * grep
         * passive
         * semi-passive
-    * NET (Network related plugins)
+    * NET
         * active
         * bruteforce
-    * AUX (Auxilary plugins)
+    * AUX
+        * se
+        * exploit etc...
 
 
-.. figure:: /images/plugin_help_text.png
+.. figure:: /images/active_plugins.png
     :align: center
 
     To know more about any plugin, read the help text present in the last column of
