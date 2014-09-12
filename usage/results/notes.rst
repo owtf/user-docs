@@ -4,6 +4,9 @@ Saving your analysis
 Once you start analyzing the plugin results, there is a need for ranking those findings
 along with saving some necessary information if needed. OWTF has both these features
 
+Manual Ranking
+--------------
+
 Inorder to rank a plugin output, you can use the ranking buttons based on the severity
 
     .. figure:: /images/info_ranking.png
@@ -21,9 +24,11 @@ Inorder to rank a plugin output, you can use the ranking buttons based on the se
     .. figure:: /images/critical_ranking.png
         :align: center
 
-Ranking are not the only thing, you can also write and save any notes as well. Click on the
-**NOTES** button to open an editor & once you are done, click on the same button to save the
-notes and close the editor
+Notes
+-----
+
+Ranking is not the only thing, you can also write and save notes as well. Click on the **NOTES**
+button to open an editor & once you are done, click on the same button to save and close the editor
 
     .. figure:: /images/notes_report.png
         :align: center
