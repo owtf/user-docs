@@ -23,6 +23,7 @@ The details presented in a plugin report are:
     * Run time of the plugin
     * Time interval during which it was running
     * Status of the plugin (i.e if it was aborted by user etc..)
+    * A button to rerun plugin
     * A button to delete the plugin output
     * A button to add notes
     * Actual plugin output
