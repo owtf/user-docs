@@ -18,4 +18,5 @@ Contents:
    install.rst
    config.rst
    usage.rst
+   troubleshooting.rst
    help.rst

@@ -14,6 +14,10 @@ The connection settings for postgres database are present in ``~/.owtf/db.cfg``.
     DATABASE_USER: owtf_db_user
     DATABASE_PASS: random_password
 
+.. note::
+    Before starting OWTF, make sure you have the postgres database server running.
+    This can be easily ensured by using scripts/db_run.sh
+
 Database & User Creation
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
