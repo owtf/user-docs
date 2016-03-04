@@ -7,7 +7,7 @@ along with saving some necessary information if needed. OWTF has both these feat
 Manual Ranking
 --------------
 
-Inorder to rank a plugin output, you can use the ranking buttons based on the severity
+In order to rank a plugin output, you can use the ranking buttons based on the severity
 
     .. figure:: /images/info_ranking.png
         :align: center

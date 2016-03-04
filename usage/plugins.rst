@@ -30,7 +30,7 @@ are categorized into multiple groups and types
 Launching Plugins
 -----------------
 
-Plugins can be launched from the targets table or from individual target report. Inorder to launch
+Plugins can be launched from the targets table or from individual target report. In order to launch
 plugins against multiple targets, select the targets in target manager and launch plugins
 
     .. figure:: /images/target_table_selected.png

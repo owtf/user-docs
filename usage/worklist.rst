@@ -3,10 +3,10 @@ Controlling Worklist
 
 work
     Any plugin when launched against a target, adds a (plugin, target) combination to the worklist. This
-    combination is known as work
+    combination is known as work.
 
 worklist
-    The list consisting of all works which are yet to be assigned to a worker
+    The list consisting of all work which are yet to be assigned to a worker.
 
 Worklist can be managed from worklist manager which looks like this
 

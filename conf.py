@@ -46,14 +46,14 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Offensive Web Testing Framework'
-copyright = u'2014, OWTF Team'
+copyright = u'2016, OWTF Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '1.0'
+version = '1.0.1'
 # The full version, including alpha/beta/rc tags.
 release = 'Lionheart'
 

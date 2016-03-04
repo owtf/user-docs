@@ -8,6 +8,7 @@ features
     * A targets table to go search through targets
     * A session manager to manage sessions
     * A button to launch plugins against targets
+    * A button to export targets to a text file - helpful when you have a large number of targets in scope
 
 New Targets
 -----------

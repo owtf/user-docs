@@ -8,7 +8,7 @@ Troubleshooting
 
 * Unable to run OWTF because of **ImportError: No module named cryptography.hazmat.bindings.openssl.binding**?
 
-    This actually means you donot have cryptography python module installed. It is recommended to rerun the install script (or)
+    This actually means you do not have cryptography python module installed. It is recommended to rerun the install script (or)
     to just install missing python libraries use the following command.
 
     .. code-block:: bash

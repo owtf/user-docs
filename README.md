@@ -15,4 +15,4 @@ After editing the documentation, generate html using
 
 Once you are satisfied with the changes, please push to the repo :)
 
-PS: It is strictly adviced to fix all errors and warning before pushing
+PS: It is strictly advised to fix all errors and warning before pushing

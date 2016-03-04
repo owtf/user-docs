@@ -11,8 +11,8 @@ By reducing this burden we hope pen testers will have more time to:
 * More efficiently find, verify and combine vulnerabilities
 * Have time to investigate complex vulnerabilities like business logic/architectural flaws or virtual hosting sessions
 * Perform more tactical/targeted fuzzing on seemingly risky areas
-* Demonstrate true impact despite the short timeframes we are typically given to test.
+* Demonstrate true impact despite the short time-frames we are typically given to test.
 
-This tool is however not a silverbullet and will only be as good as the person using it. Understanding and
+This tool is however not a silver-bullet and will only be as good as the person using it. Understanding and
 experience will be required to correctly interpret tool output and decide what to investigate further in
 order to demonstrate impact.
