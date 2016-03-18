@@ -1,8 +1,8 @@
 Advanced Installation
 ---------------------
 
-If your distro is not supported officially in the install script, the following packages might
-not have been installed by the install script. So please make sure you at-least have the mandatory
+If your distro is not officially supported in the install script, the following packages might
+not have been installed. So please make sure you atleast have the mandatory
 packages installed. Almost all the packages can be obtained using package manager of any major distro.
 
 

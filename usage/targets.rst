@@ -1,8 +1,7 @@
 Managing Targets
 ================
 
-The targets page also known as target manager presents a ton of information. It has three important
-features
+The targets page also known as the target manager presents a ton of information. It has three important features
 
     * A textarea to add new targets
     * A targets table to go search through targets
@@ -30,5 +29,5 @@ or by user (yes, user can have his own rankings)
 .. figure:: /images/target_table_filtered.png
     :align: center
 
-    All the targets in the present session are shown in targets table. A search
+    All the targets in the present session are shown in the targets table. A search
     box can be used to search among the targets

@@ -7,14 +7,13 @@ Prerequisites
 There are few packages which are mandatory before you proceed
 
     * Git client: ``sudo apt-get install git``
-    * Python 2.7, which is installed by default in most systems
+    * Python 2.7, installed by default in most systems
     * Wget: ``sudo apt-get install wget``
 
-Installation
-------------
+Installation Methods
+--------------------
 
-There are two ways in which you can proceed. Both the methods finally lead to
-the running of install script:
+There are two ways in which you can proceed. Both the methods execute the install script:
 
     .. toctree::
        :maxdepth: 2
@@ -24,12 +23,12 @@ the running of install script:
 Install Script
 ^^^^^^^^^^^^^^
 
-The install script does the following things
+The install script :
 
-    * Prompts you to select a distro from the list that are supported
+    * Prompts you to select a distro from a list containing supported distros
 
     .. note::
-        If your distro is not listed, please go through Advanced Installation as well
+        If your distro is not listed in supported distros, please go through Advanced Installation method.
 
     * Installs some tools, dictionaries and configration files
     * Installs python libraries using ``pip``
