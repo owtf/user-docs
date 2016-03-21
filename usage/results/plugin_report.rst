@@ -1,7 +1,7 @@
 Understanding plugin report
 ===========================
 
-For better organization, all the plugins of the same test code are grouped together. When you open a
+For better organization, all plugins of the same test code are grouped together. When you open a
 plugin report and click on a test code, you get to see the related plugins that are run for that target
 
 Each test group has an expandable report. The text of the link consists of there parts
