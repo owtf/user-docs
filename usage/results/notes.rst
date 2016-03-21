@@ -7,7 +7,7 @@ along with saving some necessary information if needed. OWTF has both these feat
 Manual Ranking
 --------------
 
-In order to rank a plugin output, you can use the ranking buttons based on the severity
+In order to rank a plugin output, you can use the ranking buttons based on severity
 
     .. figure:: /images/info_ranking.png
         :align: center
@@ -28,7 +28,7 @@ Notes
 -----
 
 Ranking is not the only thing, you can also write and save notes as well. Click on the **NOTES**
-button to open an editor & once you are done, click on the same button to save and close the editor
+button to open an editor and once you are done, click on the same button to save and close the editor
 
     .. figure:: /images/notes_report.png
         :align: center

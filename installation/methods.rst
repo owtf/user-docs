@@ -12,7 +12,7 @@ Manual installation of OWTF is nothing but cloning the repo and running the inst
 Bootstrap Script
 ^^^^^^^^^^^^^^^^
 
-Using our bootstrap script automates the cloning of OWTF repo and launching install script
+Our bootstrap script automates cloning of the OWTF repo and launching the install script
 
 .. code-block:: bash
 
